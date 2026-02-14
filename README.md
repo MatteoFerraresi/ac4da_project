@@ -1,4 +1,4 @@
-# Biomedical Graph Analysis — Hetionet Knowledge Network
+# Biomedical Graph Analysis
 
 ## Overview
 This project analyzes a biomedical knowledge graph (Hetionet) to explore relationships between entities such as diseases and symptoms.
